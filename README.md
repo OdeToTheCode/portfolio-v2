@@ -8,7 +8,7 @@ This is a webpage built from react. It's a portfolio of my works from bootcamp a
 
 ![Screen shot](./assets/screenshot.png)
 
-You can view the webpage depolyed [here](https://odetothecode.github.io/portfolio-v2/) at github pages or clone down the repo and run an npm install.
+You can view the webpage depolyed [here]() at github pages or clone down the repo and run an npm install.
 
 ## Usage
 
