@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-v2/static/css/main.496ca9be.css",
+    "main.js": "/portfolio-v2/static/js/main.8f1fcb4b.js",
+    "static/js/787.d9a20797.chunk.js": "/portfolio-v2/static/js/787.d9a20797.chunk.js",
+    "static/media/porfolioPic.jpeg": "/portfolio-v2/static/media/porfolioPic.72bee04a93a721d68fc6.jpeg",
+    "static/media/homerSimposonResume.pdf": "/portfolio-v2/static/media/homerSimposonResume.b0309fafdce059d65718.pdf",
+    "index.html": "/portfolio-v2/index.html",
+    "main.496ca9be.css.map": "/portfolio-v2/static/css/main.496ca9be.css.map",
+    "main.8f1fcb4b.js.map": "/portfolio-v2/static/js/main.8f1fcb4b.js.map",
+    "787.d9a20797.chunk.js.map": "/portfolio-v2/static/js/787.d9a20797.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496ca9be.css",
+    "static/js/main.8f1fcb4b.js"
+  ]
+}
