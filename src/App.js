@@ -12,7 +12,7 @@ function App() {
 
 
 
-  const page = window.location.href.includes("3000") ? window.location.href.split("3000/")[1] : window.location.href.split(".com")[1]
+  const page = window.location.href.includes("3000") ? window.location.href.split("3000/")[1] : window.location.href.split(".com/")[1]
 
   return (
     <Wrapper>
